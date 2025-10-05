@@ -16,7 +16,7 @@ const messages = [
   "pencet lagi",
   "pentet!!",
   "lagi!!",
-  "jangan bosen wkwk🤣",
+  "jangan marahh wkwk🤣",
   "janji ini terakhir",
   "serius",
   "eh boong 🤭",
@@ -32,7 +32,7 @@ const messages = [
   "udah makin tua aja nih 🤭",
   "tapi makin keren juga sih 🤩✨",
   "semoga panjang umur 🌈",
-  "semoga tambah cantik ✨",
+  "tambah cantik ✨",
   "tambah gokil 🔥",
   "semangat terus latihannya 💪🤼‍♂",
   "dan tetep jadi pusat keributan kelas 😆🔥",
@@ -133,3 +133,4 @@ function setupMusic() {
 }
 
 document.addEventListener('DOMContentLoaded', setupMusic);
+
