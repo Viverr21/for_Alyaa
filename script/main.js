@@ -14,12 +14,12 @@ const messages = [
   "aku mau ngomong penting nih...",
   "coba pencet",
   "pencet lagi",
-  "pentet!!",
+  "pencet!!",
   "lagi!!",
   "jangan marahh wkwk🤣",
   "janji ini terakhir",
   "serius",
-  "eh boong 🤭",
+  "eh tapi boong 🤭",
   "eh beneran ini terakhir 🤭",
   "aku tau kamu pasti kesal😝",
   "hmm...",
@@ -133,4 +133,5 @@ function setupMusic() {
 }
 
 document.addEventListener('DOMContentLoaded', setupMusic);
+
 
